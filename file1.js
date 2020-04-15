@@ -7,3 +7,4 @@ let c = null;
 c = a * a + c;
 
 console.log(c);
+// dev ready
